@@ -1,0 +1,17 @@
+BasedOnStyle: LLVM
+UseTab: Never
+ColumnLimit: 0
+IndentWidth: 4
+IndentCaseLabels: true
+ObjCSpaceAfterProperty: true
+AllowShortBlocksOnASingleLine: true
+AllowShortFunctionsOnASingleLine: true
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
+AccessModifierOffset: -4
+ObjCBlockIndentWidth: 4
+AlignTrailingComments: true
+MaxEmptyLinesToKeep: 1
+KeepEmptyLinesAtTheStartOfBlocks: false
+SpacesBeforeTrailingComments: 4
+#BreakBeforeBraces: Attach
